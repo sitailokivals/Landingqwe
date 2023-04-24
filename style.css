@@ -3,7 +3,7 @@
     height: 88px;
  margin: 0 auto;
 
- height: 400px;
+
 
     
     }
@@ -65,3 +65,78 @@ width: 24px;
         margin-top: 5px;
        
     }
+    .foto2{
+        position: absolute;
+        width: 1444px;
+        height: 794px;
+        left: 210px;
+        top: 88px;
+
+    }
+    .shop{
+display: flex;
+        position: absolute;
+width: 1245px;
+height: 379px;
+left: 93px;
+top: 933px;
+    }
+    .text2{
+        position: absolute;
+        width: 584px;
+        height: 41px;
+        left: 200px;
+        
+        
+        font-family: 'Lato';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 36px;
+        line-height: 43px;
+        letter-spacing: 3.90788e-08px;
+        text-transform: uppercase;
+        
+        color: #002D69;
+
+    }
+
+    .Сard{
+
+       position: absolute;
+width: 221.36px;
+height: 221.36px;
+left: 100px;
+top: 100.82px;
+    }
+    .card2{
+
+        position: absolute;
+ width: 221.36px;
+ height: 221.36px;
+ left: 400px;
+ top: 100.82px;
+     }
+     .card3{
+
+        position: absolute;
+ width: 221.36px;
+ height: 221.36px;
+ left: 700px;
+ top: 100.82px;
+     }
+     .card4{
+
+        position: absolute;
+ width: 221.36px;
+ height: 221.36px;
+ left: 1000px;
+ top: 100.82px;
+     }
+     .card5{
+
+        position: absolute;
+ width: 221.36px;
+ height: 221.36px;
+ left: 1300px;
+ top: 100.82px;
+     }
