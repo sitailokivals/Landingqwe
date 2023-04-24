@@ -1,7 +1,67 @@
 .wraper{
     width: 1440px;
     height: 88px;
- 
+ margin: 0 auto;
+
+ height: 400px;
+
     
-    
+    }
+
+    .navbar-nav{
+position: absolute;
+
+right: 12.64%;
+top: 43.18%;
+bottom: 35.23%;
+
+    }
+    .text{
+        position: absolute;
+left: 5.35%;
+right: 66.74%;
+top: 26.14%;
+bottom: 25%;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+
+
+
+color: #0D5EBA;
+
+    }
+    .nav-link{
+   
+
+
+
+
+        font-family: 'Lato';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 19px;
+        letter-spacing: 1.48872e-08px;
+     margin-left: 63px;
+        
+
+
+
+
+
+
+color: #343434;
+    }
+    .foto1{
+        margin-left: 100px;
+height: 24px;
+width: 24px;
+        position: absolute;
+        left: 91.18%;
+      
+        margin-top: 5px;
+       
     }
